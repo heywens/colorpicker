@@ -12,3 +12,12 @@ React Color Picker which saves its color as unsigned int.
     onChange={props.setFormChanged}
     />
 ```
+
+
+### Dependency
+
+This component uses `ChromePicker` from `react-color`.
+
+```
+npm i react-color
+```
