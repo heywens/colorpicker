@@ -1,7 +1,3 @@
-import CryptoJS from 'crypto-js';
-import pako from 'pako';
-
-
 const CUtils = () => {
     /** 
      * Check if value is empty or null 
