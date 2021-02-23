@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { ChromePicker } from 'react-color'
 import { makeStyles } from '@material-ui/core';
 import { FormControlLabel, Popover } from '@material-ui/core';
-import CUtils from '../../core/CUtils';
+import CUtils from './utils/CUtils';
 
 
 const _ColorPicker = (props) => {
